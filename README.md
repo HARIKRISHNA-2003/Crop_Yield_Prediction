@@ -1,2 +1,3 @@
 # Crop_Yield_Prediction
-Crop yield prediction using Machine Learning algorithms
+## Crop yield prediction using Machine Learning algorithms
+This project describes a machine learning projects focused on crop management in agriculture. The project involves pre-processing the data using libraries like NumPy, Pandas, Sci-kit Learn and Matplotlib, and classifying the data using algorithms such as K-Nearest Neighbour, Naive Bayes, Decision Trees/Random Forest, Support Vector Machine, and Logistic Regression. The proposed system employs a vast dataset of Indian states and suggests crops to farmers using a Decision Tree Classifier. The dataset has 14 columns, and the project aims to educate farmers on the best crops to cultivate using a pictorial depiction. The project achieved an average accuracy of 95%. 
